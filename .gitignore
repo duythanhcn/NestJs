@@ -1,0 +1,10 @@
+.idea/
+.vscode/
+node_modules/
+build/
+tmp/
+temp/
+debug.log
+/dist/
+yarn.lock
+yarn-error.log
